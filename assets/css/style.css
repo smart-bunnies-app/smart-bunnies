@@ -1465,7 +1465,7 @@ button, input, select, textarea, label {
     .hero {
         position: relative;
         z-index: 1;
-        background: url('/assets/images/rabbit.jpeg') center no-repeat;
+        background: url('./../images/rabbit.jpeg') center no-repeat;
         background-size: cover;
         height: 200px !important;
     }
